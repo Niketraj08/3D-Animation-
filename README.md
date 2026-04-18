@@ -42,7 +42,7 @@ The entire engine runs at **60 FPS** using `Float32Array` typed arrays for all p
 
    ```bash
    git clone https://github.com/Niketraj08/3D-Animation-.git
-   cd particletext
+   
    ```
 
 2. **Open directly in your browser**
