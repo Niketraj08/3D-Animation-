@@ -1,5 +1,5 @@
 # ✨ Particle Text — 3D Interactive Particle Engine
-
+add some point 
 A high-performance, real-time 3D particle system that morphs **10,000 particles** between an animated sphere and crisp text formations. Built with vanilla JavaScript and the HTML5 Canvas API — zero dependencies, single file, instant deploy.
 
 ---
